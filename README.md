@@ -38,7 +38,7 @@ MMED/
 
 ## 📖 Citation
 
-If you use MMED in your research, please cite:
+
 
 
 
