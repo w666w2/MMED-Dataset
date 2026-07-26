@@ -25,7 +25,7 @@ MMED is the **first speech-concurrent micro-expression dataset**, capturing spon
 
 To request access to the MMED annotations and splits, please follow the steps below:
 
-1. **Download and complete** the [License Agreement](LICENSE_AGREEMENT.md) in this repository.
+1. **Download and complete** the [License Agreement](MMED_License.pdf) in this repository.
 2. **Print** the completed form and **hand-sign** it.
 3. **Scan** the signed form into PDF format and name it as: `MMED_Agreement_[Your Name].pdf`.
 4. **Email** the signed PDF to **jbwang24@mails.jlu.edu.cn** with the subject line: `[MMED Data Request] Your Name – Institution`.
