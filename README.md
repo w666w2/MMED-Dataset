@@ -2,7 +2,7 @@
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-The MMED dataset will be released in this repository upon acceptance of the manuscript.
+The MMED annotations and splits will be made available for research use upon acceptance of the manuscript. Please see [📥 Data Access](#-data-access) for the application procedure.
 
 MMED is the **first speech-concurrent micro-expression dataset**, capturing spontaneous micro-expressions during high-stakes verbal communication in televised Werewolf (social deduction game) competitions.
 
