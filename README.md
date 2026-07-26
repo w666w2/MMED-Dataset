@@ -6,7 +6,7 @@ The MMED dataset will be released in this repository upon acceptance of the manu
 
 MMED is the **first speech-concurrent micro-expression dataset**, capturing spontaneous micro-expressions during high-stakes verbal communication in televised Werewolf (social deduction game) competitions.
 
-🔐 Access Restriction: Due to the sensitive nature of facial micro-expression annotations, access to MMED annotations and splits is granted upon request. Please see [📥 Data Access](#-data-access) below for instructions.
+> **🔐 Access Restriction:** Due to the sensitive nature of facial micro-expression annotations, access to MMED annotations and splits is granted upon request. Please see [📥 Data Access](#-data-access) below for instructions.
 
 ## 📊 Overview
 
@@ -21,24 +21,20 @@ MMED is the **first speech-concurrent micro-expression dataset**, capturing spon
 | Modalities | Video (onset/apex frames) + Audio (active speech) |
 | Micro-expression duration | < 500 ms |
 
-## 📁 Repository Structure
+## 📥 Data Access
 
-```
-MMED/
-├── README.md
-├── LICENSE
-├── annotations/
-│   ├── mmed_annotations.xlsx     # Core annotation file
-│   └── source_urls.txt           # Original video URLs + access timestamps
-├── splits/
-│   └── loso_splits.json          # LOSO-CV fold assignments (16 folds)
-└── docs/
-    └── annotation_manual.pdf     # Annotation guidelines (optional)
-```
+To request access to the MMED annotations and splits, please follow the steps below:
+
+1. **Download and complete** the [License Agreement](LICENSE_AGREEMENT.md) in this repository.
+2. **Print** the completed form and **hand-sign** it.
+3. **Scan** the signed form into PDF format and name it as: `MMED_Agreement_[Your Name].pdf`.
+4. **Email** the signed PDF to **jbwang24@mails.jlu.edu.cn** with the subject line: `[MMED Data Request] Your Name – Institution`.
+
+**Eligibility:** Access is granted to researchers and students affiliated with an accredited academic or non-profit research institution for **non-commercial research purposes only**. We reserve the right to decline requests that do not meet these criteria.
 
 ## 🎬 Accessing the Source Videos
 
-**We do not redistribute raw videos, edited clips, video frames, or audio segments.** The annotation files reference publicly available broadcasts. The copyright of the source videos remains with the original rights holders. Researchers who wish to access the underlying footage must obtain it independently from publicly available sources. Original source URLs with access timestamps are provided in `annotations/source_urls.txt`.
+**We do not redistribute raw videos, edited clips, video frames, or audio segments.** The annotation files reference publicly available broadcasts. The copyright of the source videos remains with the original rights holders. Researchers who wish to access the underlying footage must obtain it independently from publicly available sources. Original source URLs with access timestamps are included in the data package provided upon request approval.
 
 ## 📖 Citation
 
