@@ -17,7 +17,7 @@ MMED is the **first speech-concurrent micro-expression dataset**, capturing spon
 | Source videos | 7 (publicly broadcast) |
 | Emotion categories | Positive (56), Negative (37), Surprise (98) |
 | Annotation protocol | FACS-certified, dual-annotator |
-| Inter-annotator agreement | Dice coefficient r = 0.89 |
+| Inter-annotator agreement | r = 0.89 |
 | Modalities | Video (onset/apex frames) + Audio (active speech) |
 | Micro-expression duration | < 500 ms |
 
