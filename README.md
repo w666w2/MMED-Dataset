@@ -6,6 +6,8 @@ The MMED dataset will be released in this repository upon acceptance of the manu
 
 MMED is the **first speech-concurrent micro-expression dataset**, capturing spontaneous micro-expressions during high-stakes verbal communication in televised Werewolf (social deduction game) competitions.
 
+🔐 Access Restriction: Due to the sensitive nature of facial micro-expression annotations, access to MMED annotations and splits is granted upon request. Please see [📥 Data Access](#-data-access) below for instructions.
+
 ## 📊 Overview
 
 | Item | Value |
